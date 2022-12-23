@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1>welcome to ebryx</h1>
+<h1>Welcome to Ebryx</h1>
 </body>
-<body style="color:blue;">
+<body style="color:black;">
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
@@ -14,7 +14,7 @@
 <style>
 h1
 {
-  color:gray;
+  color:red;
   text-align:center;
 }
 h5
@@ -25,6 +25,3 @@ h5
   </div>
 </body>
 </html>
-
-
-
