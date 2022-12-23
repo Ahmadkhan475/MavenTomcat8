@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To Ebryx</h1>
+<h1>welcome to ebryx</h1>
 </body>
 <body style="color:blue;">
  <div class="container">
